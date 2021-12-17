@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Nov 28 23:51:24 2021
 
 @author: Elaine
 """
