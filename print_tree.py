@@ -5,7 +5,7 @@
 """
 
 def print_tree(tree, prefix = '', bend = '', answer = ''):
-    """Recursively print a 20 Questions tree in a human-friendly form.
+    """Recursively print a tree in a human-friendly form.
        TREE is the tree (or subtree) to be printed.
        PREFIX holds characters to be prepended to each printed line.
        BEND is a character string used to print the "corner" of a tree branch.
